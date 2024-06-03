@@ -1,0 +1,56 @@
+D:\##Facultate\Anul 2\MVP\Checkers\bin\Debug\net6.0-windows\Checkers.exe
+D:\##Facultate\Anul 2\MVP\Checkers\bin\Debug\net6.0-windows\Checkers.deps.json
+D:\##Facultate\Anul 2\MVP\Checkers\bin\Debug\net6.0-windows\Checkers.runtimeconfig.json
+D:\##Facultate\Anul 2\MVP\Checkers\bin\Debug\net6.0-windows\Checkers.dll
+D:\##Facultate\Anul 2\MVP\Checkers\bin\Debug\net6.0-windows\Checkers.pdb
+D:\##Facultate\Anul 2\MVP\Checkers\obj\Debug\net6.0-windows\View\MainWindow.g.cs
+D:\##Facultate\Anul 2\MVP\Checkers\obj\Debug\net6.0-windows\App.g.cs
+D:\##Facultate\Anul 2\MVP\Checkers\obj\Debug\net6.0-windows\Checkers_MarkupCompile.cache
+D:\##Facultate\Anul 2\MVP\Checkers\obj\Debug\net6.0-windows\Checkers_MarkupCompile.lref
+D:\##Facultate\Anul 2\MVP\Checkers\obj\Debug\net6.0-windows\View\MainWindow.baml
+D:\##Facultate\Anul 2\MVP\Checkers\obj\Debug\net6.0-windows\Checkers.g.resources
+D:\##Facultate\Anul 2\MVP\Checkers\obj\Debug\net6.0-windows\Checkers.GeneratedMSBuildEditorConfig.editorconfig
+D:\##Facultate\Anul 2\MVP\Checkers\obj\Debug\net6.0-windows\Checkers.AssemblyInfoInputs.cache
+D:\##Facultate\Anul 2\MVP\Checkers\obj\Debug\net6.0-windows\Checkers.AssemblyInfo.cs
+D:\##Facultate\Anul 2\MVP\Checkers\obj\Debug\net6.0-windows\Checkers.csproj.CoreCompileInputs.cache
+D:\##Facultate\Anul 2\MVP\Checkers\obj\Debug\net6.0-windows\Checkers.dll
+D:\##Facultate\Anul 2\MVP\Checkers\obj\Debug\net6.0-windows\refint\Checkers.dll
+D:\##Facultate\Anul 2\MVP\Checkers\obj\Debug\net6.0-windows\Checkers.pdb
+D:\##Facultate\Anul 2\MVP\Checkers\obj\Debug\net6.0-windows\Checkers.genruntimeconfig.cache
+D:\##Facultate\Anul 2\MVP\Checkers\obj\Debug\net6.0-windows\ref\Checkers.dll
+D:\##Facultate\Anul 2\MVP\Checkers\obj\Debug\net6.0-windows\View\BoardView.g.cs
+D:\##Facultate\Anul 2\MVP\Checkers\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\##Facultate\Anul 2\MVP\Checkers\obj\Debug\net6.0-windows\View\BoardView.baml
+C:\##FACULTATE\Anul 2 Semestru 2\MVP\Checkers\obj\Debug\net6.0-windows\Checkers.csproj.AssemblyReference.cache
+C:\##FACULTATE\Anul 2 Semestru 2\MVP\Checkers\obj\Debug\net6.0-windows\View\BoardView.g.cs
+C:\##FACULTATE\Anul 2 Semestru 2\MVP\Checkers\obj\Debug\net6.0-windows\View\MainWindow.g.cs
+C:\##FACULTATE\Anul 2 Semestru 2\MVP\Checkers\obj\Debug\net6.0-windows\App.g.cs
+C:\##FACULTATE\Anul 2 Semestru 2\MVP\Checkers\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\##FACULTATE\Anul 2 Semestru 2\MVP\Checkers\obj\Debug\net6.0-windows\Checkers_MarkupCompile.cache
+C:\##FACULTATE\Anul 2 Semestru 2\MVP\Checkers\obj\Debug\net6.0-windows\Checkers_MarkupCompile.lref
+C:\##FACULTATE\Anul 2 Semestru 2\MVP\Checkers\obj\Debug\net6.0-windows\Checkers.dll
+C:\##FACULTATE\Anul 2 Semestru 2\MVP\Checkers\obj\Debug\net6.0-windows\refint\Checkers.dll
+C:\##FACULTATE\Anul 2 Semestru 2\MVP\Checkers\obj\Debug\net6.0-windows\Checkers.pdb
+C:\##FACULTATE\Anul 2 Semestru 2\MVP\Checkers\bin\Debug\net6.0-windows\Checkers.exe
+C:\##FACULTATE\Anul 2 Semestru 2\MVP\Checkers\bin\Debug\net6.0-windows\Checkers.deps.json
+C:\##FACULTATE\Anul 2 Semestru 2\MVP\Checkers\bin\Debug\net6.0-windows\Checkers.runtimeconfig.json
+C:\##FACULTATE\Anul 2 Semestru 2\MVP\Checkers\bin\Debug\net6.0-windows\Checkers.dll
+C:\##FACULTATE\Anul 2 Semestru 2\MVP\Checkers\bin\Debug\net6.0-windows\Checkers.pdb
+C:\##FACULTATE\Anul 2 Semestru 2\MVP\Checkers\obj\Debug\net6.0-windows\View\BoardView.baml
+C:\##FACULTATE\Anul 2 Semestru 2\MVP\Checkers\obj\Debug\net6.0-windows\View\MainWindow.baml
+C:\##FACULTATE\Anul 2 Semestru 2\MVP\Checkers\obj\Debug\net6.0-windows\Checkers.g.resources
+C:\##FACULTATE\Anul 2 Semestru 2\MVP\Checkers\obj\Debug\net6.0-windows\Checkers.GeneratedMSBuildEditorConfig.editorconfig
+C:\##FACULTATE\Anul 2 Semestru 2\MVP\Checkers\obj\Debug\net6.0-windows\Checkers.AssemblyInfoInputs.cache
+C:\##FACULTATE\Anul 2 Semestru 2\MVP\Checkers\obj\Debug\net6.0-windows\Checkers.AssemblyInfo.cs
+C:\##FACULTATE\Anul 2 Semestru 2\MVP\Checkers\obj\Debug\net6.0-windows\Checkers.csproj.CoreCompileInputs.cache
+C:\##FACULTATE\Anul 2 Semestru 2\MVP\Checkers\obj\Debug\net6.0-windows\Checkers.genruntimeconfig.cache
+C:\##FACULTATE\Anul 2 Semestru 2\MVP\Checkers\obj\Debug\net6.0-windows\ref\Checkers.dll
+D:\##Facultate\Anul 2\MVP\Checkers\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\##Facultate\Anul 2\MVP\Checkers\obj\Debug\net6.0-windows\Checkers.csproj.AssemblyReference.cache
+D:\##Facultate\Anul 2\MVP\Checkers\obj\Debug\net6.0-windows\Checkers.csproj.CopyComplete
+D:\##Facultate\Anul 2\MVP\Checkers\obj\Debug\net6.0-windows\View\HelpView.g.cs
+D:\##Facultate\Anul 2\MVP\Checkers\obj\Debug\net6.0-windows\View\HelpView.baml
+C:\##FACULTATE\Anul 2 Semestru 2\MVP\Checkers\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\##FACULTATE\Anul 2 Semestru 2\MVP\Checkers\obj\Debug\net6.0-windows\View\HelpView.g.cs
+C:\##FACULTATE\Anul 2 Semestru 2\MVP\Checkers\obj\Debug\net6.0-windows\View\HelpView.baml
+C:\##FACULTATE\Anul 2 Semestru 2\MVP\Checkers\obj\Debug\net6.0-windows\Checkers.csproj.CopyComplete
